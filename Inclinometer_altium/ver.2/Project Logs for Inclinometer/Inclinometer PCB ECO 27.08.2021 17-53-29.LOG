@@ -1,0 +1,26 @@
+Added Component: Designator=X1(CON: PBS-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "8pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 8pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=C13-2
+Added Pin To Net: NetName=ComandLine Pin=X1-1
+Added Pin To Net: NetName=BRIGHTNESS Pin=X1-2
+Added Pin To Net: NetName=Reset Pin=X1-3
+Added Pin To Net: NetName=SPI1_CS Pin=X1-4
+Added Pin To Net: NetName=SPI1_SCK Pin=X1-5
+Added Pin To Net: NetName=SPI1_MOSI Pin=X1-6
+Added Pin To Net: NetName=3V3 Pin=X1-7
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Member To Class: ClassName=InclinometerMain Member=Component X1 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Room: Name=InclinometerMain
+Added Room: Name=InclinometerPower

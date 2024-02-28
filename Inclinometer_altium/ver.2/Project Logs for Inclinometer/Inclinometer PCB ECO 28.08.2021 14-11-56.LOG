@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND LCD Pin=C13-1
+Removed Pin From Net: NetName=LCD Brightness Pin=C13-2
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Added Component: Designator=C11(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71C104KA01D/490-1532-2-ND/587060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP: TANTAL-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND LCD Pin=C11-1
+Added Pin To Net: NetName=LCD Brightness Pin=C11-2
+Added Pin To Net: NetName=LCD Brightness Pin=C12-1
+Added Pin To Net: NetName=GND LCD Pin=C12-2
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C10 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C11 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C12 Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component H1 ST7735 (GMT177-01)
+Added Member To Class: ClassName=InclinometerDisplay Member=Component X3 Connector, 8pin, 2.54mm, 500VAC, 3A

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Vbat Pin=X4-2
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=LCD Brightness Pin=C13-2
+Added Pin To Net: NetName=5Vin Pin=X4-2
+Added Room: Name=InclinometerPower

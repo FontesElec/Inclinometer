@@ -1,0 +1,35 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES: 0603 New Footprint=CAP: TANTAL-A
+Change Component Footprint: Designator=VD1 Old Footprint=SOT23/TO236 New Footprint=SOT23
+Change Component Comment: Designator=VD1 Old Comment==Model New Comment=MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C
+Change Component Comment: Designator=R9 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 2k, ±1%, 0603, 0.1W, -55...+155°C
+Change Component Comment: Designator=R14 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 2k, ±1%, 0603, 0.1W, -55...+155°C
+Change Component Comment: Designator=R1 Old Comment==ValueManufacturerPartNumber New Comment=Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Change Component Comment: Designator=R12 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 1M, ±5%, 0603, 0.1W, -55...+155°C
+Change Component Comment: Designator=R11 Old Comment==ValueManufacturerPartNumber New Comment=Resistor film, 100k, ±5%, 0603, 0.1W, -55...+155°C
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=R1 NewDesignator=C8
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R8
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=VD1 NewDesignator=VT1
+Change Pin Designator/Name:  Old Designator=C9-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R11-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R11-2 Old Name=2 New Designator =1 New Name=1

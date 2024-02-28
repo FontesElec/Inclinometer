@@ -1,0 +1,11 @@
+Added Component: Designator=J?(2way_MP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Member To Class: ClassName=Inclinometer Member=Component J? 2 way net tie junction

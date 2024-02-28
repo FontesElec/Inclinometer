@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=AGND New Net Name=NetC?_1
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Room: Name=Inclinometer

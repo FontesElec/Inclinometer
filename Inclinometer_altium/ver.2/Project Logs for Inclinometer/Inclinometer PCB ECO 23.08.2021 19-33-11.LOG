@@ -1,0 +1,15 @@
+Added Component: Designator=H?(ST7735 DISPLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Help URL"; Value = "https://pdf1.alldatasheetru.com/datasheet-pdf/view/326213/SITRONIX/ST7735.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Sitronix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "ST7735 (GMT177-01)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD?_11 Pin=H?-7
+Added Pin To Net: NetName=NetD?_11 Pin=H?-7
+Added Pin To Net: NetName=NetD?_17 Pin=H?-8
+Added Pin To Net: NetName=NetD?_17 Pin=H?-8
+Added Pin To Net: NetName=NetD?_15 Pin=H?-9
+Added Pin To Net: NetName=NetD?_15 Pin=H?-9
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component H? ST7735 (GMT177-01)
+Added Room: Name=Inclinometer

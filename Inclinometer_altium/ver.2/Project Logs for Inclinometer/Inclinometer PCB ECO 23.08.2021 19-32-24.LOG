@@ -1,0 +1,75 @@
+Added Component: Designator=C?(CAP: TANTAL-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LQFP48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "LQFP48 (7x7mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Added Component: Designator=D?(ADXL345)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "ÑÑ-14-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Analog Device"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "ADXL345"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=D?-8
+Added Net: Name=AGND
+Added Pin To Net: NetName=GND Pin=D?-23
+Added Pin To Net: NetName=GND Pin=D?-35
+Added Pin To Net: NetName=GND Pin=D?-47
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=D?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-9
+Added Pin To Net: NetName=NetC?_1 Pin=D?-24
+Added Pin To Net: NetName=NetC?_1 Pin=D?-36
+Added Pin To Net: NetName=NetC?_1 Pin=D?-48
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Pin To Net: NetName=NetD?_7 Pin=D?-25
+Added Net: Name=NetD?_7
+Added Pin To Net: NetName=NetD?_11 Pin=D?-11
+Added Net: Name=NetD?_11
+Added Pin To Net: NetName=NetD?_12 Pin=D?-12
+Added Pin To Net: NetName=NetD?_12 Pin=D?-27
+Added Net: Name=NetD?_12
+Added Pin To Net: NetName=NetD?_13 Pin=D?-13
+Added Pin To Net: NetName=NetD?_13 Pin=D?-28
+Added Net: Name=NetD?_13
+Added Pin To Net: NetName=NetD?_14 Pin=D?-14
+Added Pin To Net: NetName=NetD?_14 Pin=D?-26
+Added Net: Name=NetD?_14
+Added Pin To Net: NetName=NetD?_15 Pin=D?-15
+Added Net: Name=NetD?_15
+Added Pin To Net: NetName=NetD?_17 Pin=D?-17
+Added Net: Name=NetD?_17
+Added Class: Name=Inclinometer
+Added Room: Name=Inclinometer

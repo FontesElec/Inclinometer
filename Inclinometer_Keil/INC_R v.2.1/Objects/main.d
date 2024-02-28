@@ -1,0 +1,22 @@
+.\objects\main.o: User\main.c
+.\objects\main.o: .\CMSIS\stm32f10x.h
+.\objects\main.o: .\CMSIS\core_cm3.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\CMSIS\system_stm32f10x.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: User\main.h
+.\objects\main.o: User\stm32f10xx_clock_settings.c
+.\objects\main.o: User\adc_stm32f103.c
+.\objects\main.o: User\buttons.c
+.\objects\main.o: User\flash_stm32f103.c
+.\objects\main.o: User\adxl345.h
+.\objects\main.o: User\adxl345.c
+.\objects\main.o: User\images.h
+.\objects\main.o: User\color_style.c
+.\objects\main.o: User\st7735s reg_map.h
+.\objects\main.o: User\st7735s.h
+.\objects\main.o: User\st7735_init.c
+.\objects\main.o: User\st7735_drawing.c
+.\objects\main.o: User\power_mgr.c
+.\objects\main.o: User\modes.c
+.\objects\main.o: User\accel_calib.c

@@ -1,0 +1,29 @@
+Dependencies for Project 'INC_R v.2.1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\User\main.c)(0x622332EA)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\CMSIS -I .\User-I.\RTE\_Target_1-IC:\Users\Chupakabra\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\CMSIS\stm32f10x.h)(0x5ECA6D53)
+I (.\CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (.\CMSIS\system_stm32f10x.h)(0x4D7882FA)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599F137E)
+I (User\main.h)(0x62153C1C)
+I (User\stm32f10xx_clock_settings.c)(0x620E34AB)
+I (User\adc_stm32f103.c)(0x5EA6A8F0)
+I (User\buttons.c)(0x620F6745)
+I (User\flash_stm32f103.c)(0x62162548)
+I (User\adxl345.h)(0x62154070)
+I (User\adxl345.c)(0x62233222)
+I (User\images.h)(0x620F5524)
+I (User\color_style.c)(0x6206A8BB)
+I (User\st7735s reg_map.h)(0x6208D2D8)
+I (User\st7735s.h)(0x6208F171)
+I (User\st7735_init.c)(0x62233298)
+I (User\st7735_drawing.c)(0x62153C87)
+I (User\power_mgr.c)(0x6207AF34)
+I (User\modes.c)(0x62123151)
+I (User\accel_calib.c)(0x62153C79)
+F (.\CMSIS\startup_stm32f10x_xl.s)(0x4D788318)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\Chupakabra\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 527" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_xl.lst --xref -o .\objects\startup_stm32f10x_xl.o --depend .\objects\startup_stm32f10x_xl.d)
+F (.\CMSIS\system_stm32f10x.c)(0x4D788300)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\CMSIS -I .\User-I.\RTE\_Target_1-IC:\Users\Chupakabra\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (CMSIS\stm32f10x.h)(0x5ECA6D53)
+I (CMSIS\core_cm3.h)(0x4D5281A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (CMSIS\system_stm32f10x.h)(0x4D7882FA)

@@ -1,0 +1,20 @@
+Added Component: Designator=VT?(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CurrentDS"; Value = "-2.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateCharge"; Value = "7.7nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMV65XP215/949643"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InputCapacitor"; Value = "744pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "4.16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PMV65XP,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS"; Value = "58mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "MOSFET P-channel transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDS"; Value = "-20V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Member To Class: ClassName=Inclinometer Member=Component VT? MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C
+Added Room: Name=Inclinometer

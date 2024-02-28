@@ -1,0 +1,123 @@
+Added Component: Designator=C?(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71C104KA01D/490-1532-2-ND/587060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: TANTAL-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603FR-071KL/311-1-00KHRCT-ND/729790"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100k, ±5%, 0603, 0.1W, -55...+155∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603FR-071KL/311-1-00KHRCT-ND/729790"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 2k, ±1%, 0603, 0.1W, -55...+155∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603FR-071KL/311-1-00KHRCT-ND/729790"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 2k, ±1%, 0603, 0.1W, -55...+155∞C"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(BUT: 6x6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "" ÌÓÔÍ‡""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/FSM2JSMAATR/450-1792-1-ND/3503931"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6x6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FSM2JSMAATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeButton"; Value = "Tactile button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tactile button, 6x6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=HoldOn Pin=C?-1
+Added Pin To Net: NetName=HoldOn Pin=D?-10
+Added Pin To Net: NetName=HoldOn Pin=R?-2
+Added Pin To Net: NetName=HoldOn Pin=SB?-1
+Added Pin To Net: NetName=HoldOn Pin=SB?-1
+Added Pin To Net: NetName=HoldOn Pin=VT?-1
+Added Net: Name=HoldOn
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=SB?-2
+Added Pin To Net: NetName=NetC?_1 Pin=SB?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetD?_45 Pin=D?-45
+Added Pin To Net: NetName=NetD?_45 Pin=R?-2
+Added Net: Name=NetD?_45
+Added Pin To Net: NetName=NetD?_46 Pin=D?-46
+Added Pin To Net: NetName=NetD?_46 Pin=R?-2
+Added Net: Name=NetD?_46
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 10?F, 16V, ±10%, 3Ohm, case A (3216), -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125∞C
+Added Member To Class: ClassName=Inclinometer Member=Component D? Linear voltage regulator, input 0...12V, 0.25V, output 3.3V, 150mA, -40...+85∞C, TSOP-5
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Member To Class: ClassName=Inclinometer Member=Component J? 2 way net tie junction
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 100k, ±5%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 2k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 2k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1M, ±5%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 10k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 10k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155∞C
+Added Member To Class: ClassName=Inclinometer Member=Component SB? Tactile button, 6x6mm
+Added Member To Class: ClassName=Inclinometer Member=Component SB? Tactile button, 6x6mm
+Added Member To Class: ClassName=Inclinometer Member=Component SB? Tactile button, 6x6mm
+Added Room: Name=Inclinometer

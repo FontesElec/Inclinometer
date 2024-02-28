@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Inclinometer.PrjPcb]
+   Generated File[Bill of Materials-Inclinometer.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:17:18 On 15.11.2021

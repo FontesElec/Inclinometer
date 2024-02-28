@@ -1,0 +1,20 @@
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Member To Class: ClassName=Inclinometer Member=Component D? Linear voltage regulator, input 0...12V, 0.25V, output 3.3V, 150mA, -40...+85°C, TSOP-5
+Added Member To Class: ClassName=Inclinometer Member=Component J? 2 way net tie junction
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 10k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 10k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 10k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component R? Resistor film, 1k, ±1%, 0603, 0.1W, -55...+155°C
+Added Member To Class: ClassName=Inclinometer Member=Component SB? Tactile button, 6x6mm
+Added Member To Class: ClassName=Inclinometer Member=Component SB? Tactile button, 6x6mm
+Added Member To Class: ClassName=Inclinometer Member=Component SB? Tactile button, 6x6mm
+Added Room: Name=Inclinometer

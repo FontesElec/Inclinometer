@@ -1,0 +1,15 @@
+Added Component: Designator=D?(SOP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "Linear Li-lon Battery Charger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentOutput"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/tp4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Top Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Linear Li-lon Battery Charger, VoltageInput, MaxDropout, VoltageOutput, 1A, -40...+85°C, SOP-8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? Linear voltage regulator, input 0...12V, 0.25V, output 3.3V, 150mA, -40...+85°C, TSOP-5
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Room: Name=Inclinometer

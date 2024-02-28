@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=D2-46
+Removed Member From Class: ClassName=InclinometerMain Member=R14
+Added Pin To Net: NetName=NetC8_2 Pin=D2-45
+Added Pin To Net: NetName=NetD2_46 Pin=D2-46
+Added Pin To Net: NetName=NetD2_46 Pin=R9-2
+Added Net: Name=NetD2_46
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C9 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerPower Member=Component R13 Resistor film, 3k, ±1%, 0603, 0.1W, -55...+155°C
+Added Room: Name=InclinometerDisplay
+Added Room: Name=InclinometerMain
+Added Room: Name=InclinometerPower

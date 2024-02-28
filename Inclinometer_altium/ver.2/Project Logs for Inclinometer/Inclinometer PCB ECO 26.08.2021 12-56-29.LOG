@@ -1,0 +1,49 @@
+Change Net Name : Old Net Name=NetD?_7 New Net Name=SPI2_CS
+Change Net Name : Old Net Name=NetD?_12 New Net Name=SPI2_MISO
+Change Net Name : Old Net Name=NetD?_13 New Net Name=SPI2_MOSI
+Change Net Name : Old Net Name=NetD?_14 New Net Name=SPI2_SCK
+Added Pin To Net: NetName=ComandLine Pin=D?-11
+Added Pin To Net: NetName=ComandLine Pin=H?-7
+Added Pin To Net: NetName=ComandLine Pin=H?-7
+Added Net: Name=ComandLine
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=D?-5
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=GND Pin=H?-3
+Added Pin To Net: NetName=GND Pin=H?-3
+Added Pin To Net: NetName=GND Pin=H?-5
+Added Pin To Net: NetName=GND Pin=H?-5
+Added Pin To Net: NetName=GND Pin=H?-13
+Added Pin To Net: NetName=GND Pin=H?-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-6
+Added Pin To Net: NetName=NetD?_1 Pin=H?-4
+Added Pin To Net: NetName=NetD?_1 Pin=H?-4
+Added Pin To Net: NetName=NetD?_1 Pin=H?-10
+Added Pin To Net: NetName=NetD?_1 Pin=H?-10
+Added Pin To Net: NetName=NetD?_1 Pin=H?-11
+Added Pin To Net: NetName=NetD?_1 Pin=H?-11
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=Reset Pin=D?-13
+Added Pin To Net: NetName=Reset Pin=H?-6
+Added Pin To Net: NetName=Reset Pin=H?-6
+Added Net: Name=Reset
+Added Pin To Net: NetName=SPI1_CS Pin=D?-14
+Added Pin To Net: NetName=SPI1_CS Pin=H?-12
+Added Pin To Net: NetName=SPI1_CS Pin=H?-12
+Added Net: Name=SPI1_CS
+Added Pin To Net: NetName=SPI1_MOSI Pin=D?-17
+Added Pin To Net: NetName=SPI1_MOSI Pin=H?-8
+Added Pin To Net: NetName=SPI1_MOSI Pin=H?-8
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=D?-15
+Added Pin To Net: NetName=SPI1_SCK Pin=H?-9
+Added Pin To Net: NetName=SPI1_SCK Pin=H?-9
+Added Net: Name=SPI1_SCK
+Added Member To Class: ClassName=Inclinometer Member=Component D? Linear voltage regulator, input 0...12V, 0.25V, output 3.3V, 150mA, -40...+85°C, TSOP-5
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Room: Name=Inclinometer

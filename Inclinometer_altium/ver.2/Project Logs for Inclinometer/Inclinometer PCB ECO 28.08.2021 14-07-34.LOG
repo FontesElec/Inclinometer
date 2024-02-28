@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND LCD Pin=C10-2
+Added Pin To Net: NetName=LCD Brightness Pin=C12-2
+Added Room: Name=InclinometerDisplay
+Added Room: Name=InclinometerMain
+Added Room: Name=InclinometerPower

@@ -1,0 +1,63 @@
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=2 way net tie junction
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=ADXL345
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Linear voltage regulator, input 0...12V, 0.25V, output 3.3V, 150mA, -40...+85°C, TSOP-5
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=ST7735 (GMT177-01)
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=STM32F103C8T6
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=C?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=D?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=D?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=D?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=H?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=J?
+Change Component Designator: OldDesignator=Designator1 NewDesignator=VT?
+Change component parameters: Designator = "C?"; Footprint = "CAP: 0603"; UniqueID = "\PAFLNFPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?"; Footprint = "CAP: TANTAL-A"; UniqueID = "\WJGIMANF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "Linear Li-lon Battery Charger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentOutput"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/tp4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Top Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Linear Li-lon Battery Charger, VoltageInput, MaxDropout, VoltageOutput, 1A, -40...+85°C, SOP-8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Inclinometer Member=Component C? Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component C? Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Inclinometer Member=Component D? Linear Li-lon Battery Charger, VoltageInput, MaxDropout, VoltageOutput, 1A, -40...+85°C, SOP-8
+Added Member To Class: ClassName=Inclinometer Member=Component D? Linear voltage regulator, input 0...12V, 0.25V, output 3.3V, 150mA, -40...+85°C, TSOP-5
+Added Member To Class: ClassName=Inclinometer Member=Component D? STM32F103C8T6
+Added Member To Class: ClassName=Inclinometer Member=Component D? ADXL345
+Added Member To Class: ClassName=Inclinometer Member=Component H? ST7735 (GMT177-01)
+Added Member To Class: ClassName=Inclinometer Member=Component J? 2 way net tie junction
+Added Member To Class: ClassName=Inclinometer Member=Component VT? MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C
+Added Room: Name=Inclinometer

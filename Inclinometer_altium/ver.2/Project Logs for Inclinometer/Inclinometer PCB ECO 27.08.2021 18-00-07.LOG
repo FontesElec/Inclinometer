@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=LCD Brightness Pin=C13-2
+Added Room: Name=InclinometerMain
+Added Room: Name=InclinometerPower

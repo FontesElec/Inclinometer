@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND LCD Pin=C10-2
+Removed Pin From Net: NetName=LCD Brightness Pin=C12-2
+Removed Pin From Net: NetName=GND LCD Pin=H1-2
+Removed Pin From Net: NetName=GND LCD Pin=H1-2
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C11 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C13 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component H1 ST7735 (GMT177-01)
+Added Member To Class: ClassName=InclinometerDisplay Member=Component X3 Connector, 8pin, 2.54mm, 500VAC, 3A

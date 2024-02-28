@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=InclinometerMain Member=C13
+Removed Member From Class: ClassName=InclinometerDisplay Member=C18
+Removed Member From Class: ClassName=InclinometerMain Member=C18
+Removed Member From Class: ClassName=InclinometerDisplay Member=C19
+Added Member To Class: ClassName=InclinometerMain Member=Component C9 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerMain Member=Component C10 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C11 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerDisplay Member=Component C12 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=InclinometerPower Member=Component C14 Tantalum capacitor, 10?F, 16V, ±10%, 3Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=InclinometerPower Member=Component C15 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Room: Name=InclinometerDisplay
+Added Room: Name=InclinometerMain
+Added Room: Name=InclinometerPower

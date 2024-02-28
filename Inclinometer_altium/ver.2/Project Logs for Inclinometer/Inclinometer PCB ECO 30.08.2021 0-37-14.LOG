@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND LCD Pin=H1-2
+Added Pin To Net: NetName=GND LCD Pin=H1-2
+Added Room: Name=InclinometerDisplay
+Added Room: Name=InclinometerMain
+Added Room: Name=InclinometerPower
